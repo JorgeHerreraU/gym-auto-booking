@@ -1,0 +1,20 @@
+{
+  "name": "gym-auto-booking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.56.0",
+    "@typescript-eslint/parser": "^5.56.0",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.36.0",
+    "puppeteer": "^19.8.0",
+    "winston": "^3.8.2"
+  }
+}
